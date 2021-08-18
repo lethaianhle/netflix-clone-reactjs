@@ -24,7 +24,7 @@ Newbie Time Forgive ME :>
  
  * Still Home(its have only home bro :">) :
 
-  <img src="https://imgur.com/gqci9Bs" >
+ <img src="https://i.imgur.com/gqci9Bs.png" title="source: imgur.com" />
 
 
 
