@@ -18,11 +18,11 @@ Open [https://netflix-clone-c2d1f.web.app/](https://netflix-clone-c2d1f.web.app/
 
  * Home:
  
- <img src="https://imgur.com/O0lUxRL" />
+ <img src="https://imgur.com/O0lUxRL" >
  
  * Still Home(its have only home bro :">) :
 
-  <img src="https://imgur.com/gqci9Bs" />
+  <img src="https://imgur.com/gqci9Bs" >
 
 
 
