@@ -18,7 +18,7 @@ Open [https://netflix-clone-c2d1f.web.app/](https://netflix-clone-c2d1f.web.app/
 
  * Home:
  
- <img src="https://media-cdn.laodong.vn/Storage/NewsPortal/2019/11/2/763613/Lisa-Blacpink9.jpg" >
+ ![alt](https://imgur.com/gqci9Bs)
  
  * Still Home(its have only home bro :">) :
 
