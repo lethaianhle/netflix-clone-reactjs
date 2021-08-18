@@ -22,9 +22,14 @@ Newbie Time Forgive ME :>
  
  <img src="https://i.imgur.com/O0lUxRL.png" title="source: imgur.com" />
  
+ 
+ 
  * Still Home(its have only home bro :">) :
 
  <img src="https://i.imgur.com/gqci9Bs.png" title="source: imgur.com" />
+ 
+ 
+ ## Version Still Updating
 
 
 
