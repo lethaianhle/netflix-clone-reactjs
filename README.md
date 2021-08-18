@@ -8,11 +8,21 @@ Open [https://netflix-clone-c2d1f.web.app/](https://netflix-clone-c2d1f.web.app/
 
 ## Include:
 
-TMDB API
+ * TMDB API
 
-ReactJs
+ * ReactJs
 
-Firebase Hosting
+ * Firebase Hosting
+
+## Preview:
+
+ * Home:
+ 
+ <img src="https://imgur.com/O0lUxRL" />
+ 
+ * Still Home(its have only home bro :">) :
+
+  <img src="https://imgur.com/gqci9Bs" />
 
 
 
