@@ -2,7 +2,7 @@
 
 # NetFlix Clone with Reactjs
 
-This project was sponsored by [Clever Programmer](https://www.youtube.com/watch?v=XtMThy8QKqU&t=11122s).
+This project was sponsored by [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ).
 
 Open [https://netflix-clone-c2d1f.web.app/](https://netflix-clone-c2d1f.web.app/) to view it in your browser.
 
