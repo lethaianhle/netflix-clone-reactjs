@@ -12,6 +12,8 @@ Newbie Time Forgive ME :>
 
  * TMDB API
 
+ * Realtime Netflix Api
+
  * ReactJs
 
  * Firebase Hosting
