@@ -2,7 +2,7 @@
 
 # NetFlix Clone with Reactjs
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was sponsored by [Clever Programmer](https://www.youtube.com/watch?v=XtMThy8QKqU&t=11122s).
 
 Open [https://netflix-clone-c2d1f.web.app/](https://netflix-clone-c2d1f.web.app/) to view it in your browser.
 
