@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Open [https://netflix-clone-c2d1f.web.app/](https://netflix-clone-c2d1f.web.app/) to view it in your browser.
 
+Newbie Time Forgive ME :>
+
 ## Include:
 
  * TMDB API
