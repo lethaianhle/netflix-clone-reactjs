@@ -1,6 +1,6 @@
 <!-- netflix-clone-c2d1f -->
 
-# Getting Started with Create React App
+# NetFlix Clone with Reactjs
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
